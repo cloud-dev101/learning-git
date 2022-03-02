@@ -1,0 +1,1 @@
+const currencyConverter = function(amount) {}
